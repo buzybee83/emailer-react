@@ -13,6 +13,8 @@
   "author": "Via M",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "passport": "^0.4.0",
+    "passport-google": "^0.3.0"
   }
 }
