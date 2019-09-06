@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 const Dashboard = () => {
     return (
-        <div style={{ textAlign: 'center' }}>
+        <div className="container">
             <h1>
                 DASHBOARD
             </h1>
